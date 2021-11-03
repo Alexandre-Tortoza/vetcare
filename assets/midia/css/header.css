@@ -1,3 +1,40 @@
-.cabecalho__barraSuperior{
+.cabecalho{
     background-color: var(--corPrincipal);
+    
+}
+.cabecalho div{
+    margin-top: 10px;
+}
+
+.cabecalho__logo img{
+    max-width: 10rem;
+}
+
+.cabecalho__endereco img {
+    max-width: 2rem;
+}
+
+.cabecalho__endereco p{
+    font-weight: 600;
+}
+
+.cabecalho__endereco span{
+    font-weight: 300;
+}
+
+.cabecalho__contato div {
+    margin: .5rem;
+
+}
+.cabecalho__contato a {
+    text-decoration: none;
+    color: black;
+}
+.cabecalho__contato img {
+    max-width: 2rem;
+}
+
+#phone{
+    transform: rotate(-70deg);
+    max-width: 1.5rem;
 }

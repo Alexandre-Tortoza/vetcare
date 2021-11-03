@@ -3,3 +3,31 @@
     --corSecundaria: #FEFEFE;
     --corDetalhes: #AEFFFF;
 }
+
+/* cabecalho */
+
+.cabecalho{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+
+    
+}
+
+.cabecalho__endereco{
+    display: flex;
+    
+}
+
+.cabecalho__contato {
+    display: flex;
+}
+.cabecalho__contato div {
+    display: flex;
+    align-items: center;
+}
+
+
+
+/* Principal */
