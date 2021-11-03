@@ -1,13 +1,5 @@
-header{
-    padding: .5rem;
-}
-
-header > .container{
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-}
-
-main{
-    margin: 1.5rem;
+:root{
+    --corPrincipal: #02A1B6;
+    --corSecundaria: #FEFEFE;
+    --corDetalhes: #AEFFFF;
 }
